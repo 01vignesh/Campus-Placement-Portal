@@ -1,0 +1,26 @@
+Login Credentials:
+
+database name: (for importing tables in MySQL)
+placement_portal
+
+Admin Login:
+admin
+123456
+
+
+
+Company Login:
+microsoftcareers@gmail.com
+ms123
+
+
+Student Login
+vignesh27116@gmail.com
+vignesh123
+
+
+# common header/footer and link code are in php folder
+# uploads contain admin header, user header, and job header  i.e navbar
+
+
+
