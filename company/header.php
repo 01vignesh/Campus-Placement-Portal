@@ -6,9 +6,6 @@
             <li class="nav-item">
                 <a href="index.php" class="nav-link">Dashboard</a>
             </li>
-            <li class="nav-item">
-                <a href="notice.php" class="nav-link">Notice</a>
-            </li>
 
             <li class="nav-item">
                 <a href="create-job-post.php" class="nav-link">Post Drive</a>

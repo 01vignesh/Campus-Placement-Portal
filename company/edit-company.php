@@ -74,7 +74,7 @@ require_once("../db.php");
               </div>
             </div>
             <div class="col-md-9 bg-white padding-2">
-              <h2><i>Co-Ordinator Profile</i></h2>
+              <h2><i>Company Profile</i></h2>
               <p>In this section you can change your details</p>
               <div class="row">
                 <form action="update-company.php" method="post" enctype="multipart/form-data">

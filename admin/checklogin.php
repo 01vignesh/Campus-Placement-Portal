@@ -30,7 +30,7 @@ if(mysqli_num_rows($query)>0)
 }
 echo("<script language='javascript'>
     window.alert('Incorrect Email or Password!')
-    window.location.href='index.html'
+    window.location.href='index.php'
     </script>");
     exit();
 ?>
